@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Привет, я <a href="[ссылка_на_твой_telegram]" target="_blank">Максим</a> 👋</h1>
 
-<!--
-**Tinokil/Tinokil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Python-разработчик</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tinokil&style=flat-square&color=blue" alt="Просмотры профиля"/>
+  <a href="https://t.me/maaks11">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Что я делаю
+
+- Скрипты для автоматизации
+- Ботов под Telegram
+- Парсинг сайтов
+
+## Мои проекты
+
+| Проект | Описание |
+|--------|----------|
+| **Таро-бот с Mini App** | Telegram-бот с встроенным мини-приложением для гадания на картах Таро. Пользователь задаёт вопрос, выбирает три карты, бот через ChatGPT выдаёт расшифровку расклада |
+| **Репостинг-бот для СМИ** | Автоматический сбор и публикация новостей из RSS-лент и других Telegram-каналов. Позволяет СМИ вести постоянный поток контента без ручного копирования |
+| **Магазин-бот с корзиной** | Полноценный Telegram-магазин: каталог, корзина, оплата, автоматическая выдача материалов. Подходит для продажи как физических, так и цифровых товаров |
+| **Склад-бот для производства** | Бот для учёта остатков материалов. Анализирует текущие запасы и автоматически рассчитывает, сколько единиц готовой продукции можно изготовить |
